@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[WEB]"
+name: Client bug report
+about: Client bug reports
+title: "[CLIENT]"
 labels: ''
 assignees: ''
 
