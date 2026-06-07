@@ -14,7 +14,7 @@ While we accept all types of bug reports, please do not report the following:
 
 You can report bugs by creating a new issue [here](https://github.com/gameverseinteractive/truworlds-bug-tracker/issues/new/choose).
 
-__Please select Web or Client template when creating an issue, and make sure to fill out all of the details as directed in the template.__
+__Please select the appropriate template when creating an issue, and make sure to fill out all of the details as directed in the template.__
 
 Do **NOT** share vulnerabilities / major bugs with anyone. This could lead to action being taken against your TruWorlds account. 
 We take player security very seriously and aim to fix issues as soon as possible.
