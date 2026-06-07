@@ -12,7 +12,7 @@ While we accept all types of bug reports, please do not report the following:
 - Broken on-site avatar renders
 - Multiple bugs in one issue (unless they are related)
 
-You can report bugs by creating a new issue [here](https://github.com/gameverseinteractive/truworlds-bug-tracker/issues/new).
+You can report bugs by creating a new issue [here](https://github.com/gameverseinteractive/truworlds-bug-tracker/issues/new/choose).
 
 __Please select Web or Client template when creating an issue, and make sure to fill out all of the details as directed in the template.__
 
