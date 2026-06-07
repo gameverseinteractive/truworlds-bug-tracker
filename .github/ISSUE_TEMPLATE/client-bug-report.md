@@ -1,17 +1,17 @@
 ---
-name: Client bug report
+name: Client Bug Report
 about: Client bug reports
 title: "[CLIENT]"
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
 ```
 Username: your username
 Operating system: the operating system you're using
-Browser: the browser you're using
-Browser version: version of the browser you're using
+Client version: the version of the client you're using
 ```
 
 =============FILL OUT AND REMOVE THE INFORMATION BELOW=============
@@ -30,7 +30,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. If this is a website bug, you can access console errors by pressing F12.
+If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.

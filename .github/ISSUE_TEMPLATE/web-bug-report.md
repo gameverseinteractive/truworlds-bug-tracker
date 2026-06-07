@@ -1,9 +1,10 @@
 ---
-name: Bug report
+name: Web Bug Report
 about: Create a report to help us improve
 title: "[WEB]"
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
@@ -30,7 +31,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. If this is a website bug, you can access console errors by pressing F12.
+If applicable, add screenshots to help explain your problem. You can access console errors by pressing F12.
 
 **Additional context**
 Add any other context about the problem here.
