@@ -1,7 +1,7 @@
 ---
-name: Client Bug Report
-about: Client bug reports
-title: "[CLIENT]"
+name: Engine Bug Report
+about: Engine bug reports
+title: "[ENGINE]"
 labels: ''
 assignees: ''
 type: Bug
@@ -11,7 +11,6 @@ type: Bug
 ```
 Username: your username
 Operating system: the operating system you're using
-Client version: the version of the client you're using
 ```
 
 =============FILL OUT AND REMOVE THE INFORMATION BELOW=============
