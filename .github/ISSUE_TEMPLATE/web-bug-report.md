@@ -1,6 +1,6 @@
 ---
 name: Web Bug Report
-about: Create a report to help us improve
+about: Website bug reports
 title: "[WEB]"
 labels: ''
 assignees: ''
