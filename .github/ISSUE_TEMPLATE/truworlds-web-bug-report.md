@@ -1,6 +1,6 @@
 ---
-name: Web Bug Report
-about: Website bug reports
+name: TruWorlds Web Bug Report
+about: TruWorlds Web bug reports
 title: "[WEB]"
 labels: ''
 assignees: ''

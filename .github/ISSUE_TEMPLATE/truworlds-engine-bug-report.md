@@ -1,7 +1,7 @@
 ---
-name: Creator Bug Report
-about: Creator bug reports
-title: "[CREATOR]"
+name: TruWorlds Engine Bug Report
+about: TruWorlds Engine bug reports
+title: "[ENGINE]"
 labels: ''
 assignees: ''
 type: Bug
